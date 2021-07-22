@@ -33,7 +33,7 @@ For more technical details (or more cool simulation images):
 
 * [MFM analysis on Separated Boundary Layer](/research/sbl)
 
-* [MFM-based Modeling of NASA 2D Wall-Mounted Hump Flow](/research/hump) (Boeing internship)
+* [MFM-based Modeling of NASA 2D Wall-Mounted Hump Flow](/research/wmh) (Boeing internship)
 
 ------
 
@@ -49,8 +49,8 @@ For more technical details:
 -----
 
 ### Multiphase Flow
-During my undergraduate studies, I studied multi-phase flows and computational fluid dynamics, particularly for naval applications. I worked on implementing the water-air simulating capability to the CFD code. The newly developed code can simulate problems involving moving objects in the ocean; e.g. naval vessels, marine lives, and underwater devices, such as sensors and cameras. In addition, I worked on design optimization of the sprinkler head, combined with computational simulations of the flow around the sprinkler. For more technical details:
-This work is advised under Prof. <a href="http://snutt.snu.ac.kr/">Shin Hyung Rhee</a> .
+During my undergraduate studies, I studied multi-phase flows and computational fluid dynamics, particularly for naval applications. I worked on implementing the water-air simulating capability to the CFD code. The newly developed code can simulate problems involving moving objects in the ocean; e.g. naval vessels, marine lives, and underwater devices, such as sensors and cameras. In addition, I worked on design optimization of the sprinkler head, combined with computational simulations of the flow around the sprinkler.
+This work is advised under Prof. <a href="http://snutt.snu.ac.kr/">Shin Hyung Rhee</a>.
 
  For more technical details:
 
