@@ -1,0 +1,24 @@
+- type: Publications
+
+  items:
+    - title: "Macroscopic forcing method: a tool for turbulence modeling and analysis of closures"
+      authors:
+        - name: A. Mani
+        - name: D. Park
+      published: True
+      journal: Physical Review Fluids
+      url: https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.054607
+      volume : 6.054607
+      year : 2021
+    
+    - title: "Eddy viscosity in turbulent channel flow at Re&tau;=180"
+      authors:
+        - name: D. Park
+        - name: A. Mani
+      published: False
+
+    - title: "Anisotropic eddy viscosity in separated boundary-layer flows"
+      authors:
+        - name: D. Park
+        - name: A. Mani
+      published: False

@@ -1,0 +1,19 @@
+- title: Home
+  research:
+  - home
+
+- title: Macroscopic Forcing Method (MFM)
+  research:
+  - mfm
+  - channel
+  - sbl
+  - wmh
+
+- title: Turbulence Fundamentals
+  research:
+  - structure
+
+- title: Multi-phase Flows
+  research:
+  - hydrofoil
+  - sprinkler
