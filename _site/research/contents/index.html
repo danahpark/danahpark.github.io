@@ -11,21 +11,21 @@
 
     <link rel="shortcut icon" href="/favicon.ico?1">
     <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Introduction | Danah Park</title>
+<title>Table of Contents | Danah Park</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Introduction" />
+<meta property="og:title" content="Table of Contents" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Website for Danah Park." />
-<meta property="og:description" content="Website for Danah Park." />
-<link rel="canonical" href="http://localhost:4000/research/home/" />
-<meta property="og:url" content="http://localhost:4000/research/home/" />
+<meta name="description" content="Macroscopic Forcing Method (MFM)" />
+<meta property="og:description" content="Macroscopic Forcing Method (MFM)" />
+<link rel="canonical" href="http://localhost:4000/research/contents/" />
+<meta property="og:url" content="http://localhost:4000/research/contents/" />
 <meta property="og:site_name" content="Danah Park" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2021-07-28T11:22:42+02:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Introduction" />
+<meta property="twitter:title" content="Table of Contents" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/research/home/","@type":"WebPage","headline":"Introduction","description":"Website for Danah Park.","dateModified":"2021-07-28T11:22:42+02:00","datePublished":"2021-07-28T11:22:42+02:00","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/research/contents/","@type":"WebPage","headline":"Table of Contents","description":"Macroscopic Forcing Method (MFM)","dateModified":"2021-07-28T11:22:42+02:00","datePublished":"2021-07-28T11:22:42+02:00","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -89,11 +89,11 @@
           
             
             
-            <a class="list-group-item active" href="/research/home/">Introduction</a>
+            <a class="list-group-item " href="/research/home/">Introduction</a>
           
             
             
-            <a class="list-group-item " href="/research/contents/">Table of Contents</a>
+            <a class="list-group-item active" href="/research/contents/">Table of Contents</a>
           
         </div>
       </div>
@@ -183,20 +183,58 @@
         </div>
 
         <div class="col-md-8">
-            <h1>Introduction</h1>
-            <div id="markdown-content-container"><p><img src="../../img/sbl_3.png" alt="Research Introduction Image" /></p>
+            <h1>Table of Contents</h1>
+            <div id="markdown-content-container"><h3 id="macroscopic-forcing-method-mfm">Macroscopic Forcing Method (MFM)</h3>
 
-<p>I use high-performance computing and rigorous mathematical theory to simulate and understand the physics of turbulent flows and try to model their effective behavior. My study has a wide range of impacts from aerospace to naval applications.</p>
+<p>We developed a novel systematic technique called MFM which allows us to calculate the exact Reynolds-average Navier Stokes (RANS) operator and the eddy viscosity used in the turbulence model. We applied MFM to a <a href="/research/channel">turbulent channel flow</a> and a <a href="/research/sbl">separated boundary layer flow</a>. They mimic the wall-attached flows and smooth-body separation often shown in flows around moving objects (aircraft, ships, etc.). Using MFM, we were able to identify the missing pieces in the current turbulence models and we are currently developing a new turbulence model. Also, I did some preliminary MFM-inspired turbulence modeling using <a href="/research/wmh">NASA 2D wall-mounted hump</a> as part of my Boeing internship.
+This work is advised under Prof. <a href="https://manigroup.sites.stanford.edu/">Ali Mani</a>.</p>
 
-<p><strong>Current research interests: turbulence analysis &amp; modeling, machine learning and data science for scientific computing, high-performance computing</strong></p>
+<p>For more technical details:</p>
 
-<p>My current research includes:</p>
 <ul>
-  <li><strong>Data-driven understanding</strong> &amp; modeling of turbulence</li>
-  <li><strong>High-performance computing</strong> of complex flow systems</li>
-  <li>Various applications from <strong>ocean engineering to aerospace</strong></li>
+  <li>
+    <p><a href="/research/mfm">Introduction to MFM</a></p>
+  </li>
+  <li>
+    <p><a href="/research/channel">MFM analysis on Channel Flow</a></p>
+  </li>
+  <li>
+    <p><a href="/research/sbl">MFM analysis on Separated Boundary Layer</a></p>
+  </li>
+  <li>
+    <p><a href="/research/wmh">MFM-based Modeling of NASA 2D Wall-Mounted Hump Flow</a> (Boeing internship)</p>
+  </li>
 </ul>
 
+<hr />
+
+<h3 id="turbulence-fundamentals">Turbulence Fundamentals</h3>
+
+<p>It has long been studied how energy is transferred from large to small scales in turbulent flows. Understanding this phenomenon is critical and necessary for turbulence modeling. However, this energy transfer process and the formation of turbulent structures are still not fully understood. We’re currently studying the time-resolved coherent structure of the energy cascade in isotropic turbulence.
+This work is advised under Prof. <a href="https://www.adrianld.mit.edu/research">Adrian Lozano Duran</a>.</p>
+
+<p>For more technical details:</p>
+
+<ul>
+  <li><a href="/research/structure">Coherent Structure of the Energy Cascade</a></li>
+</ul>
+
+<hr />
+
+<h3 id="multiphase-flow">Multiphase Flow</h3>
+<p>During my undergraduate studies, I studied multi-phase flows and computational fluid dynamics, particularly for naval applications. I worked on implementing the water-air simulating capability to the CFD code. The newly developed code can simulate problems involving moving objects in the ocean; e.g. naval vessels, marine lives, and underwater devices, such as sensors and cameras. In addition, I worked on design optimization of the sprinkler head, combined with computational simulations of the flow around the sprinkler.
+This work is advised under Prof. <a href="http://snutt.snu.ac.kr/">Shin Hyung Rhee</a>.</p>
+
+<p>For more technical details:</p>
+
+<ul>
+  <li>
+    <p><a href="/research/hydrofoil">Implementing Volume of Fluid (VoF) in Immersed-Boundary Solver</a></p>
+  </li>
+  <li>
+    <p><a href="/research/sprinkler">Sprinkler Head Design Optimization</a></p>
+  </li>
+</ul>
 </div>
             <div style="clear:both;">
               <p class="text-center">
@@ -212,10 +250,15 @@
 
   
   
+
+  
+  
     <ul class="pager">
       
-        <li class="previous disabled">
-          <a>
+        
+        
+        <li class="previous">
+          <a href="/research/home/">
             <span aria-hidden="true">&larr;</span> Previous
           </a>
         </li>
@@ -225,7 +268,7 @@
         
         
         <li class="next">
-          <a href="/research/contents/">
+          <a href="/research/mfm/">
             Next <span aria-hidden="true">&rarr;</span>
           </a>
         </li>
