@@ -11,11 +11,14 @@
       volume : 6.054607
       year : 2021
     
-    - title: "Eddy viscosity in turbulent channel flow at Re&tau;=180"
+    - title: "Direct calculation of the eddy viscosity operator in turbulent channel flow at Re&tau;=180"
       authors:
         - name: D. Park
         - name: A. Mani
-      published: False
+      published: True
+      journal: arXiv preprint arXiv:2108.10898
+      url: https://arxiv.org/abs/2108.10898
+      year : 2021
 
     - title: "Anisotropic eddy viscosity in separated boundary-layer flows"
       authors:
