@@ -26,9 +26,14 @@ For more technical details:
 It has long been studied how energy is transferred from large to small scales in turbulent flows. Understanding this phenomenon is critical and necessary for turbulence modeling. However, this energy transfer process and the formation of turbulent structures are still not fully understood. We're currently studying the time-resolved coherent structure of the energy cascade in isotropic turbulence.
 This work is advised under Prof. <a href="https://www.adrianld.mit.edu/research">Adrian Lozano Duran</a>.
 
+In addition, I am also studying how we can utilize machine learning to encode the sub-grid-scale physics of turbulence. I am currently developing a convolutional neural network algorithm to encode sub-grid-scale physics for passive scalar transport
+in 3D turbulent flow.
+
 For more technical details:
 
-* [Coherent Structure of the Energy Cascade](/research/structure)
+* [Coherent Structure of the Energy Cascade](/research/structure) (ongoing)
+
+* [Sub-grid-scale Modeling using Convolutional Neural Network](/research/cnn) (ongoing)
 
 -----
 

@@ -4,16 +4,15 @@ permalink: /research/home/
 redirect_from: /research/index.html
 ---
 
-I use high-performance computing and rigorous mathematical theory to simulate and understand the physics of turbulent flows and try to model their effective behavior. My study has a wide range of impacts from aerospace to naval applications.
+My research mainly involves **scientific computing, especially computational fluid dynamics (CFD)**. That is, I use **high-performance computing (HPC)** tools to simulate and understand the physics of complex, turbulent flows. My research has a wide range of impacts, in aerospace as well as naval applications. I am currently expanding my interests to **machine-learning (ML)** applications for HPC and scientific simulations.
 
-**Current research interests: turbulence analysis & modeling, machine learning and data science for scientific computing, high-performance computing**
+At Stanford, I work with [Prof. Ali Mani](https://manigroup.stanford.edu/) to develop new tools for analyzing/understanding complex flow systems and improving models for more effective simulations.
 
-My current research includes:
-- **Data-driven understanding & modeling** of turbulence
-- **High-performance computing** of complex flow systems
-- Various applications from **ocean engineering to aerospace**
+I also work with [Prof. Adrian Lozano Duran](https://www.adrianld.mit.edu/research) at MIT, analyzing the underlying structures and energy cascades in turbulent flows using novel data analysis algorithms.
 
-Some of my (beutiful) simulation images:
+For my undergrad, I got a B.S.E. in Naval and Ocean Engineering. I worked with [Prof. Shin Hyung Rhee](https://snutt.snu.ac.kr/) on multi-phase flows and CFD, particularly for naval applications.
+
+See below for some of my (beautiful) simulation images. These involve over 10TB of CFD data, simulated using over 200,000 CPU hours.
 
 - Separated wall-bounded turbulent flow:
 
