@@ -33,7 +33,7 @@ For more technical details:
 
 * [Coherent Structure of the Energy Cascade](/research/structure) (ongoing)
 
-* [Sub-grid-scale Modeling using Convolutional Neural Network](/research/cnn) (ongoing)
+* [Sub-grid-scale Modeling using Convolutional Neural Network] (ongoing)
 
 -----
 

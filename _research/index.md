@@ -12,7 +12,11 @@ I also work with [Prof. Adrian Lozano Duran](https://www.adrianld.mit.edu/resear
 
 For my undergrad, I got a B.S.E. in Naval and Ocean Engineering. I worked with [Prof. Shin Hyung Rhee](https://snutt.snu.ac.kr/) on multi-phase flows and CFD, particularly for naval applications.
 
-See below for some of my (beautiful) simulation images. These involve over 10TB of CFD data, simulated using over 200,000 CPU hours.
+See below for some of my (beautiful) simulation images. These involve over 70TB of CFD data, simulated using over 13,000,000 CPU hours.
+
+- Separated wall-bounded turbulent flow with spanwise sweep:
+
+![Research Introduction Image](../../img/intro_0.png)
 
 - Separated wall-bounded turbulent flow:
 
