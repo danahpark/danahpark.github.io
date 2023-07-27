@@ -21,11 +21,11 @@
 <meta property="og:url" content="http://localhost:4000/research/sbl/" />
 <meta property="og:site_name" content="Danah Park" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-08-06T08:40:03+02:00" />
+<meta property="article:published_time" content="2023-07-27T08:19:43+02:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Separated Boundary Layer" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/research/sbl/","@type":"WebPage","headline":"Separated Boundary Layer","description":"Website for Danah Park.","dateModified":"2022-08-06T08:40:03+02:00","datePublished":"2022-08-06T08:40:03+02:00","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/research/sbl/","@type":"WebPage","headline":"Separated Boundary Layer","description":"Website for Danah Park.","dateModified":"2023-07-27T08:19:43+02:00","datePublished":"2023-07-27T08:19:43+02:00","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -149,35 +149,6 @@
             
             <a class="list-group-item " href="/research/structure/">Coherent Structure of the Energy Cascade</a>
           
-            
-            
-            <a class="list-group-item " href="/research/cnn/">Sub-grid-scale Modeling using Convolutional Neural Network</a>
-          
-        </div>
-      </div>
-    </div>
-  
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
-            Multi-phase Flows
-          </a>
-        </h4>
-      </div>
-      
-      
-      <div class="panel-collapse collapse" id="collapse-4" role="tabpanel" aria-label="Side Navigation">
-        <div class="list-group">
-          
-            
-            
-            <a class="list-group-item " href="/research/hydrofoil/">Implementing VoF in immersed-boundary solver</a>
-          
-            
-            
-            <a class="list-group-item " href="/research/sprinkler/">Sprinkler Head Design Optimization</a>
-          
         </div>
       </div>
     </div>
@@ -194,7 +165,9 @@
 
 <p>We conducted a direct measurement of the eddy viscosity for a canonical separated boundary layer flow at Reθ=350 using the <a href="/research/mfm">macroscopic forcing method</a>, a systematic methodology that utilizes direct numerical simulations to determine turbulence closure operators. By considering an asymptotic expansion utilizing spatial moments of the eddy-viscosity kernel, the Reynolds stress closure is precisely decomposed into local and non-local operators. This work presents the leading-order term in this expansion representing the local limit of the eddy diffusivity operator. All relevant tensor components of this operator are computed, and the results show substantial non-Boussinesq effects. The solution to the RANS equation augmented by the measured eddy viscosity tensor shows significant improvement compared to the prior RANS solutions to this flow. Here, we used Spalart-Allmaras (SA) model as the comparison and considered direct numerical simulation (DNS) as a ground truth. The persisting gap between this improved a priori RANS solution and the true mean field is quantified as a measure of upper bound on the accuracy of local Reynolds stress closures.</p>
 
-<p>Currently, we are developing a stand-alone turbulence model to capture the physics in the smooth-body flow separation.</p>
+<p><img src="../../img/intro_0.png" alt="SBL Image 2" /></p>
+
+<p>Furthermore, we extended this work to a more realistic separation where there is non-zero shear at the point of separation by adding a spanwise sweep. We compared the leading order anisotropic eddy viscosity tensors between the separation bubble with and without sweep. While both exhibit substantial anisotropic effects, we identify additional components of the eddy viscosity tensor to play an important role in the mean momentum budget, in the presence of mean flow sweep. These results reveal a quantitative understanding of RANS model requirements with a specific focus on anisotropic momentum mixing.</p>
 </div>
             <div style="clear:both;">
               <p class="text-center">
@@ -258,7 +231,7 @@
     <div class="container">
 
         <p class="text-center">
-            Danah Park 2022 |
+            Danah Park 2023 |
             Powered by <a href="https://github.com/aksakalli/jekyll-doc-theme">Jekyll Doc Theme</a>
         </p>
         <!-- <p class="text-muted">Place sticky footer content here.</p> -->
